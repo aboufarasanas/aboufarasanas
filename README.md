@@ -1,95 +1,165 @@
 <div align="center">
-  <img height="150" src="banner_github.png"  />
+
+# booting anas.exe...
+
+```bash
+Initializing system...
+Loading developer profile ██████████ 100%
+
+User: Anas Abou Faras
+Location: Morocco 🇲🇦
+Role: Full Stack Developer
+Status: Building cool things...
+```
+
+<img src="banner_github.png"/>
+
 </div>
 
-###
+---
+
+# $ whoami
+
+```javascript
+const anas = {
+    education: "Full Stack Development Student",
+    background: "Physical Sciences Graduate (2023)",
+    passion: ["Web Development", "UI/UX", "Learning New Technologies"],
+
+    currentFocus: "Building modern web experiences",
+
+    lifePhilosophy: function () {
+        return "Learn → Build → Improve → Repeat";
+    }
+}
+```
+
+---
+
+# $ system.skills()
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/anasaboufaras/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/anas_abooo" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100083288872978" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  </a>
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,redux,php,laravel,mongodb,mysql,python,git,docker,postman,figma,vscode"/>
+
 </div>
 
-###
+---
+
+# $ current_status
+
+```txt
+🟢 Building:
+Personal projects + Full Stack skills
+
+🟡 Learning:
+Advanced React
+Laravel Architecture
+System Design
+
+🔵 Goal:
+Build products used by thousands of users
+
+⚫ Mode:
+const sleep = false;
+```
+
+---
+
+# $ mission.log
+
+```bash
+[✓] Graduate in Physical Sciences
+[✓] Start Full Stack journey
+[✓] Learn Frontend
+[✓] Learn Backend
+[ ] Build something people remember
+[ ] Become world-class developer
+```
+
+---
+
+# $ choose_path
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=aboufarasanas.aboufarasanas&"  />
+
+[Projects](#projects) •
+[Stats](#stats) •
+[Connect](#connect)
+
 </div>
 
-###
+---
 
-<h1 align="center">hey there 👋</h1>
+<h2 id="projects">$ projects</h2>
 
-###
+```txt
+🚀 Coming soon...
 
-<h3 align="left">👩‍💻  About Me</h3>
+Loading amazing projects...
+██████░░░░ 60%
+```
 
-###
+---
 
-<p align="left">I'm Anas, a Moroccan Web Developer.<br><br>- 👨🏼‍🎓 Currently studying Full Stack Development.<br>- 🎓 I graduated with a Baccalaureate in 2023 in Physical Sciences.<br>- 💻Passionate about all things related to web development, constantly learning and improving my skills</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<img align="right" height="150" src="https://media.tenor.com/KUZbSj7nvasAAAAM/kira-dev-is-deving.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redux" height="40" alt="redux logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+<h2 id="stats">$ stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aboufarasanas&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=aboufarasanas&show_icons=true&theme=tokyonight"/>
+
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=aboufarasanas&layout=compact&theme=tokyonight"/>
+
 </div>
 
-###
+---
 
+# $ developer_mood
 
+```javascript
+while(alive){
+
+    eat();
+    code();
+    learn();
+
+    if(error){
+        google();
+        tryAgain();
+    }
+
+}
+```
+
+---
+
+<h2 id="connect">$ connect</h2>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/anasaboufaras/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/anas_abooo">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/profile.php?id=100083288872978">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+```bash
+> End of file
+
+Thanks for visiting...
+See you in production 🚀
+```
+
+</div>
