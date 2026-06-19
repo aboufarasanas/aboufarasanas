@@ -30,8 +30,8 @@ Name        : Anas Abou Faras
 Age         : Loading...
 Country     : Morocco 🇲🇦
 Status      : Online 🟢
-Focus        : Full Stack Development
-Mission      : Building web experiences
+Focus       : Full Stack Development
+Mission     : Building web experiences
 ```
 
 ---
@@ -97,20 +97,6 @@ while(alive){
 [3] Future SaaS Ideas...
 [4] More coming soon...
 ```
-
----
-
-# GitHub Analytics
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=aboufarasanas&show_icons=true&theme=tokyonight"/>
-
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=aboufarasanas&theme=tokyonight"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aboufarasanas&layout=compact&theme=tokyonight"/>
-
-</div>
 
 ---
 
