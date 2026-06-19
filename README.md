@@ -1,139 +1,137 @@
 <div align="center">
 
-# booting anas.exe...
-
 ```bash
-Initializing system...
-Loading developer profile ██████████ 100%
-
-User: Anas Abou Faras
-Location: Morocco 🇲🇦
-Role: Full Stack Developer
-Status: Building cool things...
+booting anas.exe...
+██████████████████████ 100%
 ```
 
-<img src="banner_github.png"/>
+<img src="banner_github.png" width="100%">
 
-</div>
-
----
-
-# $ whoami
+# 👨‍💻 ANAS ABOU FARAS
 
 ```javascript
 const anas = {
-    education: "Full Stack Development Student",
-    background: "Physical Sciences Graduate (2023)",
-    passion: ["Web Development", "UI/UX", "Learning New Technologies"],
-
-    currentFocus: "Building modern web experiences",
-
-    lifePhilosophy: function () {
-        return "Learn → Build → Improve → Repeat";
-    }
-}
+    location: "Morocco 🇲🇦",
+    role: "Full Stack Developer",
+    education: "Physical Sciences → Full Stack Development",
+    currentStatus: "Learning, Building, Improving",
+    lifeGoal: "Create products people remember"
+};
 ```
-
----
-
-# $ system.skills()
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,redux,php,laravel,mongodb,mysql,python,git,docker,postman,figma,vscode"/>
 
 </div>
 
 ---
 
-# $ current_status
-
-```txt
-🟢 Building:
-Personal projects + Full Stack skills
-
-🟡 Learning:
-Advanced React
-Laravel Architecture
-System Design
-
-🔵 Goal:
-Build products used by thousands of users
-
-⚫ Mode:
-const sleep = false;
-```
-
----
-
-# $ mission.log
+## > system.info()
 
 ```bash
-[✓] Graduate in Physical Sciences
-[✓] Start Full Stack journey
-[✓] Learn Frontend
-[✓] Learn Backend
-[ ] Build something people remember
-[ ] Become world-class developer
+Name        : Anas Abou Faras
+Age         : Loading...
+Country     : Morocco 🇲🇦
+Status      : Online 🟢
+Focus        : Full Stack Development
+Mission      : Building web experiences
 ```
 
 ---
 
-# $ choose_path
+## > choose_path()
 
 <div align="center">
 
-[Projects](#projects) •
-[Stats](#stats) •
-[Connect](#connect)
+| Option | Destination |
+|---------|-------------|
+| 👨‍💻 | [Projects](#projects) |
+| ⚡ | [Tech Stack](#tech-stack) |
+| 📈 | [Current Mission](#current-mission) |
+| 🌐 | [Connect](#connect) |
 
 </div>
 
 ---
 
-<h2 id="projects">$ projects</h2>
-
-```txt
-🚀 Coming soon...
-
-Loading amazing projects...
-██████░░░░ 60%
-```
-
----
-
-<h2 id="stats">$ stats</h2>
+# Tech Stack
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=aboufarasanas&show_icons=true&theme=tokyonight"/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=aboufarasanas&layout=compact&theme=tokyonight"/>
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,redux,php,laravel,mongodb,mysql,python,docker,git,figma,vscode,postman" />
 
 </div>
 
 ---
 
-# $ developer_mood
+# Current Mission
 
 ```javascript
 while(alive){
 
-    eat();
-    code();
-    learn();
+   learn();
 
-    if(error){
-        google();
-        tryAgain();
-    }
+   build();
+
+   improve();
+
+   repeat();
+
+}
+```
+
+### Current Focus
+
+🟢 Building real projects
+
+🟡 Learning advanced full-stack concepts
+
+🔵 Improving UI/UX skills
+
+⚪ Exploring new technologies
+
+---
+
+# Projects
+
+```bash
+[1] Portfolio Website
+[2] Full Stack Applications
+[3] Future SaaS Ideas...
+[4] More coming soon...
+```
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=aboufarasanas&show_icons=true&theme=tokyonight"/>
+
+<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=aboufarasanas&theme=tokyonight"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aboufarasanas&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+# Today's Developer Mood
+
+```javascript
+if(coffee >= 1){
+
+   productivity = "MAXIMUM";
+
+}
+else{
+
+   productivity = "ERROR 404";
 
 }
 ```
 
 ---
 
-<h2 id="connect">$ connect</h2>
+# Connect
 
 <div align="center">
 
@@ -156,10 +154,13 @@ while(alive){
 <div align="center">
 
 ```bash
-> End of file
+shutdown? 
 
-Thanks for visiting...
-See you in production 🚀
+No.
+
+Still building...
 ```
+
+⭐ From Morocco with code
 
 </div>
