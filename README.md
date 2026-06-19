@@ -1,142 +1,151 @@
 <div align="center">
 
-# 🌌 [ ANAS // NEURAL SPACE STATION ]
+# 🚀 MISSION CONTROL : ANAS-01
 
 ```txt
-◉ Establishing connection...
-
-[■■□□□□□□□□] 10%
-[■■■■■□□□□□] 50%
-[■■■■■■■■■■] 100%
-
-CONNECTION ESTABLISHED
+╔══════════════════════════════════════════════╗
+║      CONNECTION ESTABLISHED                 ║
+║      Developer signal detected...           ║
+║      Identity : ANAS ABOU FARAS             ║
+║      Status   : ONLINE 🟢                   ║
+╚══════════════════════════════════════════════╝
 ```
 
 <img src="banner_github.png" width="100%">
 
-```txt
-╔════════════════════════════════════╗
-║        SYSTEM IDENTIFICATION      ║
-╚════════════════════════════════════╝
+</div>
 
-USER      : Anas
-ORIGIN    : Morocco 🇲🇦
-CLASS     : Full Stack Developer
-STATUS    : ONLINE 🟢
-LEVEL     : LEARNING / EVOLVING
+---
+
+## 🌍 Planet Information
+
+```yaml
+name: Anas
+origin: Morocco 🇲🇦
+class: Full Stack Developer
+background:
+  - Physical Sciences
+  - Web Development
+
+personality:
+  - Curious
+  - Creative
+  - Problem Solver
+
+mission:
+  Build things people actually enjoy using
 ```
+
+---
+
+## 🛰 Active Systems
+
+```txt
+Frontend Engine    [██████████] 100%
+Backend Engine     [████████░░] 85%
+Database System    [████████░░] 80%
+UI/UX Processor    [███████░░░] 70%
+Coffee Reactor     [██████████] ∞
+```
+
+---
+
+## ⚙ Installed Modules
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,react,redux,php,laravel,mongodb,mysql,python,docker,git,figma,vscode" />
 
 </div>
 
 ---
 
-# 🚀 Galactic Navigation
+## 📡 Current Transmission
 
 ```txt
-[01] Dock at Projects
-[02] Scan Technologies
-[03] Open Mission Log
-[04] Contact Earth
+[NOW LEARNING]
+> Advanced Full Stack Architecture
+
+[CURRENT TARGET]
+> Building real-world projects
+
+[NEXT OBJECTIVE]
+> Create products used by thousands
 ```
 
 ---
 
-# 🛰 AI Core Status
+## 🌌 Developer Timeline
+
+```txt
+2023  ● Graduated Physical Sciences
+       │
+       │
+2024  ● Started Full Stack Journey
+       │
+       │
+2025  ● Building Projects
+       │
+       │
+2026  ● You are here 📍
+       │
+       ▼
+Future ● ????
+```
+
+---
+
+## 🤖 AI Prediction
 
 ```javascript
-class Developer{
+function future(anas){
 
-    constructor(){
+if(anas.keepLearning){
 
-        this.name = "Anas";
-        this.energy = "85%";
-        this.focus = "Building";
-        this.mode = "Creative";
-        this.status = "Evolving";
-
-    }
-
-    nextMission(){
-
-        return "Build things people remember";
-
-    }
+return "Unlimited Growth 🚀"
 
 }
 
-const user = new Developer();
+return "Try Again"
+}
 
-console.log(user.nextMission());
+future(anas)
+```
+
+Output:
+
+```txt
+Unlimited Growth 🚀
 ```
 
 ---
 
-# ⚙ Technologies detected
+## 📊 System Analytics
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,redux,php,laravel,mongodb,mysql,python,docker,git,figma,vscode"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=aboufarasanas&show_icons=true&theme=transparent"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aboufarasanas&layout=compact&theme=transparent"/>
 
 </div>
 
 ---
 
-# 🌍 Planetary Missions
-
-```txt
-MISSION 01
-Build useful products
-
-MISSION 02
-Master Full Stack Development
-
-MISSION 03
-Turn ideas into reality
-
-MISSION 04
-Keep evolving
-```
-
----
-
-# 📊 Neural Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aboufarasanas&show_icons=true&theme=radical"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=aboufarasanas&theme=radical"/>
-
-</div>
-
----
-
-# 🧠 AI Thought Stream
-
-```txt
-Humans write code.
-
-Developers build projects.
-
-Legends build experiences.
-```
-
----
-
-# 📡 Contact Earth
+## 📞 Communication Channel
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/anasaboufaras/">
-<img src="https://img.shields.io/badge/LinkedIn-ONLINE-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LINKEDIN-ONLINE-success?style=for-the-badge"/>
 </a>
 
 <a href="https://www.instagram.com/anas_abooo">
-<img src="https://img.shields.io/badge/Instagram-ONLINE-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-ONLINE-success?style=for-the-badge"/>
 </a>
 
 <a href="https://www.facebook.com/profile.php?id=100083288872978">
-<img src="https://img.shields.io/badge/Facebook-ONLINE-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/FACEBOOK-ONLINE-success?style=for-the-badge"/>
 </a>
 
 </div>
@@ -146,15 +155,11 @@ Legends build experiences.
 <div align="center">
 
 ```txt
-Transmission ending...
+End of transmission...
 
-...
-...
-...
-
-NO SIGNAL LOST
-
-STILL BUILDING 🚀
+Signal strength: ██████████ 100%
 ```
+
+⭐ Created somewhere on Earth 🌍 by Anas
 
 </div>
